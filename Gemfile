@@ -7,4 +7,4 @@ require "bundler"
 ruby "~> 3.2.2"
 
 gem "bundler", Bundler::VERSION
-gem "awesome_print", "1.0.0"
+gem "awesome_print", "1.9.2"
